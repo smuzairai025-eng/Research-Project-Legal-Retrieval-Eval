@@ -1,0 +1,326 @@
+{
+  "workbook_sha256": "54b49233c2664cccccaf00c83ee13fd08a5bf25459e20cc802fbb2aeb53e3964",
+  "candidate_label_source": "data/processed/stage3a-v2/C/evidence.json",
+  "pairs": [
+    {
+      "pair_id": "DEV-01",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "provision": "§4(2)",
+      "evidence_pages": [
+        7
+      ],
+      "required_fragments": [
+        "No wage-periods shall exceed one month."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "96bc31fb9ea687cef6d6d9835b8cc589dc72d512bb3a16f35ba63608e6471a3c",
+          "pdf_pages": [
+            7,
+            7
+          ],
+          "start_offset": 8339,
+          "end_offset": 10326,
+          "evidence_fragments": [
+            "No wage-periods shall exceed one month."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "In Khyber Pakhtunkhwa, what is the maximum permissible duration of a wage period?",
+      "everyday_question": "In Khyber Pakhtunkhwa, what’s the longest time a single pay period can cover?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-02",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "provision": "§10(1)",
+      "evidence_pages": [
+        10
+      ],
+      "required_fragments": [
+        "by the neglect or default of the employed person and shall not be made until the employed person has been given an opportunity of showing cause against the deduction"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f2b7038d0be214749bce3e21f66f920fb0248ae2ba65ea3c02eb0d0cae3da44e",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "start_offset": 16530,
+          "end_offset": 17431,
+          "evidence_fragments": [
+            "by the neglect or default of the employed person and shall not be made until the employed person has been given an opportunity of showing cause against the deduction"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "In Khyber Pakhtunkhwa, what opportunity must a worker receive before their employer deducts wages for damage caused by the worker’s negligence?",
+      "everyday_question": "In Khyber Pakhtunkhwa, if I damage something at work through carelessness, what chance must my employer give me before taking money out of my pay for it?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-03",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "provision": "§10(2)",
+      "evidence_pages": [
+        10
+      ],
+      "required_fragments": [
+        "the damage or loss caused to the employer by the neglect or default of the employed person",
+        "All such deductions and all realizations thereof shall be recorded in a register to be kept by the person responsible for the payment of wages under section 3 in such form as may be prescribed."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f2b7038d0be214749bce3e21f66f920fb0248ae2ba65ea3c02eb0d0cae3da44e",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "start_offset": 16530,
+          "end_offset": 17431,
+          "evidence_fragments": [
+            "the damage or loss caused to the employer by the neglect or default of the employed person",
+            "All such deductions and all realizations thereof shall be recorded in a register to be kept by the person responsible for the payment of wages under section 3 in such form as may be prescribed."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "In Khyber Pakhtunkhwa, where must wage deductions for damage caused by a worker’s negligence and amounts recovered through those deductions be recorded?",
+      "everyday_question": "In Khyber Pakhtunkhwa, if a worker carelessly damages something and the employer takes money out of their pay, where must the employer record the deductions and the money recovered?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-04",
+      "document_id": "6657675cd5178bf4fc0ae4a26f301351fbd894f69c498acc89b82448121970bb",
+      "provision": "§3(1)(a)–(f)",
+      "evidence_pages": [
+        6,
+        7
+      ],
+      "required_fragments": [
+        "(a) the Chairman of the Board;",
+        "(b) one independent member;",
+        "(c) one member to represent the employers of the Province;",
+        "(d) one member to represent the workers of the Province;",
+        "(e) one member to represent the employers connected with the industry concerned;",
+        "(f) one member to represent the workers engaged in such industry."
+      ],
+      "candidate_relevant_chunks": [],
+      "partial_chunk_evidence": [
+        {
+          "chunk_id": "8a431ccca4b400a1b26029f3088c1a1fb8c88509c1f33461a4a13af53cda583b",
+          "pdf_pages": [
+            6,
+            6
+          ],
+          "start_offset": 8506,
+          "end_offset": 10131,
+          "evidence_fragments": [
+            "(a) the Chairman of the Board;",
+            "(b) one independent member;",
+            "(c) one member to represent the employers of the Province;",
+            "(d) one member to represent the workers of the Province;"
+          ]
+        },
+        {
+          "chunk_id": "9a509a1608c85510b74ce253dd6e90d31c3365a8845d52a78ec91652dcd5710e",
+          "pdf_pages": [
+            7,
+            7
+          ],
+          "start_offset": 10131,
+          "end_offset": 12079,
+          "evidence_fragments": [
+            "(e) one member to represent the employers connected with the industry concerned;",
+            "(f) one member to represent the workers engaged in such industry."
+          ]
+        }
+      ],
+      "formal_question": "Who are the members of the Khyber Pakhtunkhwa Minimum Wages Board?",
+      "everyday_question": "Who sits on the board that deals with minimum pay in Khyber Pakhtunkhwa?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-05",
+      "document_id": "6657675cd5178bf4fc0ae4a26f301351fbd894f69c498acc89b82448121970bb",
+      "provision": "§9(2)(a)",
+      "evidence_pages": [
+        10
+      ],
+      "required_fragments": [
+        "declared under this Act to be the minimum rate of wages",
+        "Nothing in sub-section (1) shall be deemed- (a) to require or authorize an employer to reduce the rate of wages of any worker"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "27385f1f6db3d6ffd536b234e011dfb9e0e37465647ca5d36fe342c72afe7489",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "start_offset": 18782,
+          "end_offset": 19519,
+          "evidence_fragments": [
+            "declared under this Act to be the minimum rate of wages",
+            "Nothing in sub-section (1) shall be deemed- (a) to require or authorize an employer to reduce the rate of wages of any worker"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "Does the declaration of a minimum wage rate in Khyber Pakhtunkhwa itself authorize an employer to reduce a worker’s existing wage rate?",
+      "everyday_question": "In Khyber Pakhtunkhwa, can my boss cut my current pay rate just because the government has set a minimum pay rate?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-06",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "provision": "§4",
+      "evidence_pages": [
+        6
+      ],
+      "required_fragments": [
+        "The text of the Act shall be prominently posted and kept in a legible condition by the employer in English and Urdu, and in the language understood by the majority of his workers"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "3a09867186ad0b271439cae77e757c6461a86a8c2ef2e0d34c61e20c0c66d57c",
+          "pdf_pages": [
+            6,
+            6
+          ],
+          "start_offset": 8135,
+          "end_offset": 10084,
+          "evidence_fragments": [
+            "The text of the Act shall be prominently posted and kept in a legible condition by the employer in English and Urdu, and in the language understood by the majority of his workers"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "In which languages must an employer display the text of the Standing Orders Act at a covered establishment in Khyber Pakhtunkhwa?",
+      "everyday_question": "At a workplace in Khyber Pakhtunkhwa covered by the Standing Orders Act, which languages must the boss use when putting up the text of that law?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-07",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "provision": "Schedule, Standing Order 4",
+      "evidence_pages": [
+        10
+      ],
+      "required_fragments": [
+        "Every permanent worker shall be entitled to a service certificate at the time of his dismissal, discharge, retrenchment or retirement from service."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "84df01c38ed35889ab01c995e76621e983239eb21fb830e6c4e035650640019b",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "start_offset": 19362,
+          "end_offset": 19931,
+          "evidence_fragments": [
+            "Every permanent worker shall be entitled to a service certificate at the time of his dismissal, discharge, retrenchment or retirement from service."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "What document is a permanent worker entitled to receive upon retirement under the Khyber Pakhtunkhwa Standing Orders?",
+      "everyday_question": "When I retire from a permanent job covered by the Khyber Pakhtunkhwa Standing Orders, what paperwork about my employment should I get?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-08",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "provision": "Schedule, Standing Order 5",
+      "evidence_pages": [
+        10
+      ],
+      "required_fragments": [
+        "The periods and hours of work for all classes of workers in each shift",
+        "on notice boards maintained at or near the main entrance of the establishment and at the time-keeper‟s office, if any."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "84df01c38ed35889ab01c995e76621e983239eb21fb830e6c4e035650640019b",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "start_offset": 19362,
+          "end_offset": 19931,
+          "evidence_fragments": [
+            "The periods and hours of work for all classes of workers in each shift",
+            "on notice boards maintained at or near the main entrance of the establishment and at the time-keeper‟s office, if any."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "Where must an establishment in Khyber Pakhtunkhwa display the working hours for each shift under the Standing Orders?",
+      "everyday_question": "At a workplace in Khyber Pakhtunkhwa covered by the Standing Orders, where should I look for the posted hours for each shift?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-09",
+      "document_id": "79bed8e4c849906373cac308e641b98c6f5797ac75b8919fb469945af41c9069",
+      "provision": "§4",
+      "evidence_pages": [
+        11
+      ],
+      "required_fragments": [
+        "Any trade union may, under the signatures of its President and Secretary, apply to the Registrar for registration of the trade union under this Act."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f16a8cb8d14751f63b4983585626a0db7ff450525b1ff8f812d3f6e91c6f3901",
+          "pdf_pages": [
+            11,
+            11
+          ],
+          "start_offset": 15134,
+          "end_offset": 16905,
+          "evidence_fragments": [
+            "Any trade union may, under the signatures of its President and Secretary, apply to the Registrar for registration of the trade union under this Act."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "Whose signatures are required on a trade union’s application for registration in Khyber Pakhtunkhwa?",
+      "everyday_question": "If a workers’ union in Khyber Pakhtunkhwa wants to register, who in the union has to sign the application?",
+      "verification_status": "pending_human_verification"
+    },
+    {
+      "pair_id": "DEV-10",
+      "document_id": "79bed8e4c849906373cac308e641b98c6f5797ac75b8919fb469945af41c9069",
+      "provision": "§37(1)–(2)",
+      "evidence_pages": [
+        33
+      ],
+      "required_fragments": [
+        "A worker may bring his grievance in respect of any right guaranteed or secured to him by or under any law or any award or settlement for the time being in force to the notice of his employer in writing",
+        "Where a worker himself brings his grievance to the notice of the employer, the employer shall, within fifteen days of the grievance being brought to his notice, communicate his decision in writing to the worker."
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "e4f15fb64f0e1617f4e82b0b79df921e661f153f8603cdae94c03dd9c003b0c2",
+          "pdf_pages": [
+            33,
+            33
+          ],
+          "start_offset": 64939,
+          "end_offset": 66864,
+          "evidence_fragments": [
+            "A worker may bring his grievance in respect of any right guaranteed or secured to him by or under any law or any award or settlement for the time being in force to the notice of his employer in writing",
+            "Where a worker himself brings his grievance to the notice of the employer, the employer shall, within fifteen days of the grievance being brought to his notice, communicate his decision in writing to the worker."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "formal_question": "In Khyber Pakhtunkhwa, within what period must an employer communicate a written decision when a worker personally submits a written grievance about a right secured by law, an award, or a settlement?",
+      "everyday_question": "In Khyber Pakhtunkhwa, if I write to my boss myself because a right I have under a law, an award, or a settlement wasn’t respected, how long does my boss have to send me their decision in writing?",
+      "verification_status": "pending_human_verification"
+    }
+  ]
+}

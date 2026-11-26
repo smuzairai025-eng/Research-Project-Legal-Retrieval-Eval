@@ -1,0 +1,353 @@
+{
+  "workbook_name": "Pakistani Legal Retrieval — Development Pairs.xlsx",
+  "workbook_sha256": "54b49233c2664cccccaf00c83ee13fd08a5bf25459e20cc802fbb2aeb53e3964",
+  "dataset": "data/processed/stage3-validation/prototype-v2",
+  "scope": "Candidate labels for the cited provisions pending user review.",
+  "pairs": [
+    {
+      "pair_id": "DEV-01",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "development_document": 586,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Payment of Wages Act, 2013 [586].pdf",
+      "provision": "§4(2)",
+      "pdf_pages": [
+        7
+      ],
+      "workbook_supporting_passage": "No wage-periods shall exceed one month.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "e604a432c92bea1f8f84e12042cc48b3f3a2466d15f63de9008783e536ded23c"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "e604a432c92bea1f8f84e12042cc48b3f3a2466d15f63de9008783e536ded23c",
+          "pdf_pages": [
+            7,
+            7
+          ],
+          "evidence_fragments": [
+            "No wage-periods shall exceed one month."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "Subsection (2) supplies the wage-period cap. Nearby section 5 concerns payment dates."
+    },
+    {
+      "pair_id": "DEV-02",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "development_document": 586,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Payment of Wages Act, 2013 [586].pdf",
+      "provision": "§10(1)",
+      "pdf_pages": [
+        10
+      ],
+      "workbook_supporting_passage": "shall not be made until the employed person has been given an opportunity of showing cause against the deduction",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "ae698dc159444c72f57efc6a499e553f3f62d54a01dbf22523857b403c733fe4"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "ae698dc159444c72f57efc6a499e553f3f62d54a01dbf22523857b403c733fe4",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "evidence_fragments": [
+            "by the neglect or default of the employed person and shall not be made until the employed person has been given an opportunity of showing cause against the deduction"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "This chunk supplies both the damage or neglect context and the opportunity to show cause."
+    },
+    {
+      "pair_id": "DEV-03",
+      "document_id": "cf23b3f52d0783cd61853ec048fd46f05e1809529fecef9dc62dab661d361b4b",
+      "development_document": 586,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Payment of Wages Act, 2013 [586].pdf",
+      "provision": "§10(2)",
+      "pdf_pages": [
+        10
+      ],
+      "workbook_supporting_passage": "All such deductions and all realizations thereof shall be recorded in a register to be kept by the person responsible for the payment of wages under section 3 in such form as may be prescribed.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "ae698dc159444c72f57efc6a499e553f3f62d54a01dbf22523857b403c733fe4"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "ae698dc159444c72f57efc6a499e553f3f62d54a01dbf22523857b403c733fe4",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "evidence_fragments": [
+            "Deductions for damage or loss",
+            "All such deductions and all realizations thereof shall be recorded in a register to be kept by the person responsible for the payment of wages under section 3 in such form as may be prescribed."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The preceding subsection in the same chunk establishes what 'such deductions' refers to."
+    },
+    {
+      "pair_id": "DEV-04",
+      "document_id": "6657675cd5178bf4fc0ae4a26f301351fbd894f69c498acc89b82448121970bb",
+      "development_document": 585,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Minimum Wages Act, 2013 [585].pdf",
+      "provision": "§3(1)(a)–(f)",
+      "pdf_pages": [
+        6,
+        7
+      ],
+      "workbook_supporting_passage": "(a) the Chairman of the Board; (b) one independent member; (c) one member to represent the employers of the Province; (d) one member to represent the workers of the Province; (e) one member to represent the employers connected with the industry concerned; and (f) one member to represent the workers engaged in such industry.",
+      "workbook_verification_status": "Corrected; reviewer recheck",
+      "candidate_relevant_chunk_ids": [],
+      "candidate_relevant_chunks": [],
+      "partial_chunk_evidence": [
+        {
+          "chunk_id": "89aa153a2abd71f6ca01a0d0e3d36c0f50ab9f66e5e926473e0a84cd835111eb",
+          "pdf_pages": [
+            6,
+            6
+          ],
+          "evidence_fragments": [
+            "(a) the Chairman of the Board;",
+            "(b) one independent member;"
+          ]
+        },
+        {
+          "chunk_id": "85d57f5fb67e1fcd2e573cf8814d8515fc947a95d53bbd7a228f59753862f10f",
+          "pdf_pages": [
+            6,
+            6
+          ],
+          "evidence_fragments": [
+            "(a) the Chairman of the Board;",
+            "(b) one independent member;",
+            "(c) one member to represent the employers of the Province;",
+            "(d) one member to represent the workers of the Province;"
+          ]
+        },
+        {
+          "chunk_id": "9148a71ec897b219f3608617a1099fa8a86f333a01017c270d1286569f61cd19",
+          "pdf_pages": [
+            7,
+            7
+          ],
+          "evidence_fragments": [
+            "(e) one member to represent the employers connected with the industry concerned;",
+            "(f) one member to represent the workers engaged in such industry."
+          ]
+        }
+      ],
+      "evidence_coverage_status": "split_evidence",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "Page 6 supplies (a)-(d) and page 7 supplies (e)-(f). The source also contains 'and' before clause (d), unlike the workbook transcription. The complete six-member list is present across pages, but the existing chunks split it. Workbook marks the corrected answer for reviewer recheck."
+    },
+    {
+      "pair_id": "DEV-05",
+      "document_id": "6657675cd5178bf4fc0ae4a26f301351fbd894f69c498acc89b82448121970bb",
+      "development_document": 585,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Minimum Wages Act, 2013 [585].pdf",
+      "provision": "§9(2)(a)",
+      "pdf_pages": [
+        10
+      ],
+      "workbook_supporting_passage": "Nothing in sub-section (1) shall be deemed- (a) to require or authorize an employer to reduce the rate of wages of any worker",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "0424982689c57180c3998b891629b9f33b2189ad096f258b1f2d977ed3a12101"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "0424982689c57180c3998b891629b9f33b2189ad096f258b1f2d977ed3a12101",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "evidence_fragments": [
+            "declared under this Act to be the minimum rate of wages",
+            "Nothing in sub-section (1) shall be deemed- (a) to require or authorize an employer to reduce the rate of wages of any worker"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The chunk includes both the declared minimum rate in subsection (1) and the no-reduction clause in (2)(a)."
+    },
+    {
+      "pair_id": "DEV-06",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "development_document": 581,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Industrial and Commercial Employment (STANDING ORDERS) Act, 2013 [581].pdf",
+      "provision": "§4",
+      "pdf_pages": [
+        6
+      ],
+      "workbook_supporting_passage": "The text of the Act shall be prominently posted and kept in a legible condition by the employer in English and Urdu, and in the language understood by the majority of his workers",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "f7011754f2c8a0ea8b50a25d4d3a297040a8267057d7fba436c1182b0faf9eb7"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f7011754f2c8a0ea8b50a25d4d3a297040a8267057d7fba436c1182b0faf9eb7",
+          "pdf_pages": [
+            6,
+            6
+          ],
+          "evidence_fragments": [
+            "The text of the Act shall be prominently posted and kept in a legible condition by the employer in English and Urdu, and in the language understood by the majority of his workers"
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The candidate contains all three language requirements."
+    },
+    {
+      "pair_id": "DEV-07",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "development_document": 581,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Industrial and Commercial Employment (STANDING ORDERS) Act, 2013 [581].pdf",
+      "provision": "Schedule, Standing Order 4",
+      "pdf_pages": [
+        10
+      ],
+      "workbook_supporting_passage": "Every permanent worker shall be entitled to a service certificate at the time of his dismissal, discharge, retrenchment or retirement from service.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "f9ec2e439dc587d97a131812055f6f70bd10c9b551d0ff206bd59e48260f854d"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f9ec2e439dc587d97a131812055f6f70bd10c9b551d0ff206bd59e48260f854d",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "evidence_fragments": [
+            "Every permanent worker shall be entitled to a service certificate at the time of his dismissal, discharge, retrenchment or retirement from service."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "Standing Order 4 specifies the certificate, permanent worker status and retirement."
+    },
+    {
+      "pair_id": "DEV-08",
+      "document_id": "b9bec05b5e6424e1f99ba11916941d23e3f21cd1624498d5f6fb827f4bb1e9f8",
+      "development_document": 581,
+      "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Industrial and Commercial Employment (STANDING ORDERS) Act, 2013 [581].pdf",
+      "provision": "Schedule, Standing Order 5",
+      "pdf_pages": [
+        10
+      ],
+      "workbook_supporting_passage": "The periods and hours of work for all classes of workers in each shift shall be exhibited in Urdu and in the principal language of workers employed in the industrial establishment or commercial establishment on notice boards maintained at or near the main entrance of the establishment and at the time-keeper’s office, if any.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "f9ec2e439dc587d97a131812055f6f70bd10c9b551d0ff206bd59e48260f854d"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "f9ec2e439dc587d97a131812055f6f70bd10c9b551d0ff206bd59e48260f854d",
+          "pdf_pages": [
+            10,
+            10
+          ],
+          "evidence_fragments": [
+            "The periods and hours of work for all classes of workers in each shift",
+            "on notice boards maintained at or near the main entrance of the establishment and at the time-keeper‟s office, if any."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The candidate includes each shift, both notice-board locations, and the 'if any' condition. The extraction uses U+201F at the punctuation position where the workbook uses U+2019."
+    },
+    {
+      "pair_id": "DEV-09",
+      "document_id": "79bed8e4c849906373cac308e641b98c6f5797ac75b8919fb469945af41c9069",
+      "development_document": 1487,
+      "source": "kp_code_pdfs/kp_code_pdfs/THE KHYBER PAKHTUNKHWA INDUSTRIAL RELATIONS ACT 2010 [1487].pdf",
+      "provision": "§4",
+      "pdf_pages": [
+        11
+      ],
+      "workbook_supporting_passage": "Any trade union may, under the signatures of its President and Secretary, apply to the Registrar for registration of the trade union under this Act.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [
+        "fdfe6ce34d1ad0c95ca0972f2899a5739006aa54cb6a9816d03b8058e9ae09be"
+      ],
+      "candidate_relevant_chunks": [
+        {
+          "chunk_id": "fdfe6ce34d1ad0c95ca0972f2899a5739006aa54cb6a9816d03b8058e9ae09be",
+          "pdf_pages": [
+            11,
+            11
+          ],
+          "evidence_fragments": [
+            "Any trade union may, under the signatures of its President and Secretary, apply to the Registrar for registration of the trade union under this Act."
+          ]
+        }
+      ],
+      "partial_chunk_evidence": [],
+      "evidence_coverage_status": "candidate_single_chunk",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The candidate covers the two signatories and the registration application. Section 5 concerns attachments."
+    },
+    {
+      "pair_id": "DEV-10",
+      "document_id": "79bed8e4c849906373cac308e641b98c6f5797ac75b8919fb469945af41c9069",
+      "development_document": 1487,
+      "source": "kp_code_pdfs/kp_code_pdfs/THE KHYBER PAKHTUNKHWA INDUSTRIAL RELATIONS ACT 2010 [1487].pdf",
+      "provision": "§37(1)–(2)",
+      "pdf_pages": [
+        33
+      ],
+      "workbook_supporting_passage": "Where a worker himself brings his grievance to the notice of the employer, the employer shall, within fifteen days of the grievance being brought to his notice, communicate his decision in writing to the worker.",
+      "workbook_verification_status": "Verified",
+      "candidate_relevant_chunk_ids": [],
+      "candidate_relevant_chunks": [],
+      "partial_chunk_evidence": [
+        {
+          "chunk_id": "8ed46af23682f4bc9e3a00d437b8bb0d427c3d288d599bd254c886ef730a1c4c",
+          "pdf_pages": [
+            33,
+            33
+          ],
+          "evidence_fragments": [
+            "A worker may bring his grievance in respect of any right guaranteed or secured to him by or under any law or any award or settlement for the time being in force to the notice of his employer in writing"
+          ]
+        },
+        {
+          "chunk_id": "daee9eff2fc3b9fcd4dc0d5854162587d0eb21a0a69581b89961cefdaa8ceea2",
+          "pdf_pages": [
+            33,
+            33
+          ],
+          "evidence_fragments": [
+            "Where a worker himself brings his grievance to the notice of the employer, the employer shall, within fifteen days of the grievance being brought to his notice, communicate his decision in writing to the worker."
+          ]
+        }
+      ],
+      "evidence_coverage_status": "split_evidence",
+      "review_status": "awaiting_user_review",
+      "validation_notes": "The deadline chunk contains the personal-submission trigger and written decision. An adjacent chunk contains the qualifying written-grievance scope in subsection (1). The workbook excerpt quotes subsection (2) only. Under the independently sufficient evidence rule, treat this as split pending review."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+[
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Payment of Wages Act, 2013 [586].pdf",
+    "title": "Khyber Pakhtunkhwa Payment of Wages Act, 2013",
+    "development_document": 586,
+    "act_number": "IX of 2013",
+    "reason": "Required development document; wage periods and deductions."
+  },
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Minimum Wages Act, 2013 [585].pdf",
+    "title": "Khyber Pakhtunkhwa Minimum Wages Act, 2013",
+    "development_document": 585,
+    "act_number": "XII of 2013",
+    "reason": "Required development document; compare minimum wages with payment of wages."
+  },
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Industrial and Commercial Employment (STANDING ORDERS) Act, 2013 [581].pdf",
+    "title": "Khyber Pakhtunkhwa Industrial and Commercial Employment (Standing Orders) Act, 2013",
+    "development_document": 581,
+    "act_number": "XI of 2013",
+    "reason": "Required development document; standing-order schedule and numbered clauses."
+  },
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/THE KHYBER PAKHTUNKHWA INDUSTRIAL RELATIONS ACT 2010 [1487].pdf",
+    "title": "Khyber Pakhtunkhwa Industrial Relations Act, 2010",
+    "development_document": 1487,
+    "act_number": "XVI of 2010",
+    "reason": "Required development document; longer Act with substantial page transitions."
+  },
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Factories Act, 2013 [1488].pdf",
+    "title": "Khyber Pakhtunkhwa Factories Act, 2013",
+    "reason": "Longer provincial statute with detailed definitions and numbered provisions."
+  },
+  {
+    "source": "kp_code_pdfs/kp_code_pdfs/The Khyber Pakhtunkhwa Right to Information Act, 2013 [590].pdf",
+    "title": "Khyber Pakhtunkhwa Right to Information Act, 2013",
+    "reason": "Provincial statute outside employment law."
+  },
+  {
+    "source": "pakistan_code_pdfs/pakistan_code_pdfs/Constitution of the Islamic Republic of Pakistan.pdf",
+    "title": "Constitution of the Islamic Republic of Pakistan",
+    "reason": "Long document with articles, chapter headings, and schedules."
+  },
+  {
+    "source": "pakistan_code_pdfs/pakistan_code_pdfs/Payment of Wages Act, 1936.pdf",
+    "title": "Payment of Wages Act, 1936",
+    "reason": "Federal counterpart to a development document with a different layout."
+  },
+  {
+    "source": "pakistan_code_pdfs/pakistan_code_pdfs/Industrial and Commercial Employment (Standing Orders) Ordinance, 1968.pdf",
+    "title": "Industrial and Commercial Employment (Standing Orders) Ordinance, 1968",
+    "reason": "Federal counterpart with standing orders and amendment markers."
+  },
+  {
+    "source": "pakistan_code_pdfs/pakistan_code_pdfs/Agricultural Development Bank Ordinance 1961(Repealed by Ord. 60 of 2002,s.2).pdf",
+    "reason": "Inspect one member of the 21-file exact-duplicate group for extraction eligibility and document identity."
+  },
+  {
+    "source": "pakistan_code_pdfs/pakistan_code_pdfs/Banking Companies (Recovery of Loans,Advances,Credits and Finances)Act 1997 (Rep.pdf",
+    "reason": "Inspect one member of the 26-file exact-duplicate group for extraction eligibility and document identity."
+  },
+  {
+    "source": "punjab_laws_pdfs/punjab_laws_pdfs/100.pdf",
+    "title": "Punjab Land Dispositions (Saving of Shamilat) Ordinance, 1959",
+    "reason": "Short numbered-file ordinance with a distinct title page."
+  },
+  {
+    "source": "punjab_laws_pdfs/punjab_laws_pdfs/1251a.pdf",
+    "title": "Workers’ Children (Education) Ordinance, 1972",
+    "reason": "Short employment-related ordinance with a lettered filename and a section 5A."
+  },
+  {
+    "source": "punjab_laws_pdfs/punjab_laws_pdfs/10.pdf",
+    "title": "Provincial Small Cause Courts Act, 1887",
+    "reason": "Historical statute with a chapter structure and repealed section markers."
+  },
+  {
+    "source": "punjab_laws_pdfs/punjab_laws_pdfs/237.pdf",
+    "reason": "First member of an exact-duplicate pair to test separate source identities."
+  },
+  {
+    "source": "punjab_laws_pdfs/punjab_laws_pdfs/237(1).pdf",
+    "reason": "Second member of the pair to verify that duplicate reporting leaves both files represented."
+  },
+  {
+    "source": "sindh_laws_pdfs/sindh_laws_pdfs/Sindh Consumer Protection Act, 2014.pdf",
+    "title": "Sindh Consumer Protection Act, 2014",
+    "reason": "Sindh statute with its own formatting and non-employment subject matter."
+  },
+  {
+    "source": "sindh_laws_pdfs/sindh_laws_pdfs/Sindh Right of Children to Free and Compulsory Education Act, 2013.pdf",
+    "title": "Sindh Right of Children to Free and Compulsory Education Act, 2013",
+    "reason": "Education statute for comparison with the shorter Punjab labour-education ordinance."
+  },
+  {
+    "source": "sindh_laws_pdfs/sindh_laws_pdfs/Sindh_Public _Procurement_Rules,2010 ( Amendment up to date-2025).pdf",
+    "title": "Sindh Public Procurement Rules, 2010",
+    "reason": "Rules compilation with amendment material and a longer layout."
+  },
+  {
+    "source": "sindh_laws_pdfs/sindh_laws_pdfs/SindhCriminal Prosecution Service (Constitution, Functions and Powers) Act 2009 with Rules, (Amendments upto date).pdf",
+    "reason": "Combined Act and rules with amendment material and potentially varied page layouts."
+  }
+]
